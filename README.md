@@ -1,7 +1,4 @@
 # WebLingoLive 
- ```bash
-   [ git clone https://github.com/yourusername/WebLingoLive.git](https://kishan200286.github.io/WeblingoTranslator/)
-    ```
 
 **WebLingoLive** is a web-based application that provides real-time language translation for live conversations. Built using HTML, CSS, and JavaScript, this project aims to make communication across different languages seamless and interactive.
 
